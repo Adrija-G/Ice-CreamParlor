@@ -1,6 +1,6 @@
-# Bianco Ice Cream Parlor
+# Bianca Ice Cream Parlor
 
-Welcome to Bianco Ice Cream Parlor, a virtual ice cream parlor simulation where you can order your favorite ice creams with various flavors and toppings.
+Welcome to Bianca Ice Cream Parlor, a virtual ice cream parlor simulation where you can order your favorite ice creams with various flavors and toppings.
 
 ## Features
 - 🍦 Choose from a variety of ice cream types, including sundaes, cones, cups, and more.
@@ -11,10 +11,10 @@ Welcome to Bianco Ice Cream Parlor, a virtual ice cream parlor simulation where 
 - 💻 Enjoy the convenience of an easy-to-use command-line interface.
 
 ## Usage
-1. Clone the Bianco Ice Cream Parlor repository.
+1. Clone the Bianca Ice Cream Parlor repository.
 2. Run the program using PHP in your terminal.
 3. Follow the on-screen instructions to place an order or serve orders.
-4. Have a sweet time at Bianco Ice Cream Parlor!
+4. Have a sweet time at Bianca Ice Cream Parlor!
 
 ## 🍦 Ice Cream Types
 1. Sundae
