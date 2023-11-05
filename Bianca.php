@@ -6,7 +6,7 @@
       private $order = [];
   
       public function displayMenu() {
-          echo "Welcome to Bianco!\n";
+          echo "Welcome to Bianca!\n";
           echo "Today's Ice Cream Types:\n";
           echo "1. Sundae\n";
           echo "2. Cone\n";
